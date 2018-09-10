@@ -1,0 +1,18 @@
+{
+  "name": "datastorage",
+  "version": "0.0.1",
+  "description": "data collector",
+  "main": "app.js",
+  "scripts": {
+    "test": "haha no"
+  },
+  "author": "Rahul Prasad",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongodb": "^3.1.4",
+    "mongoose": "^5.2.10",
+    "request": "^2.88.0"
+  }
+}
