@@ -49,3 +49,4 @@ router.post('/data',(r,s)=>{
 });
 
 module.exports = router;
+console.log("Data Fetching Ends");

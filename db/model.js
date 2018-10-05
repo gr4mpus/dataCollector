@@ -1,3 +1,5 @@
+// This is the model for the dataCollector app
+
 const mongoose = require('mongoose');
 
 const particleModelSchema = mongoose.Schema({
